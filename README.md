@@ -10,4 +10,5 @@ Modification 2
 *italic*
 *some chnage*
 **Another Change**
-I am in directory git101 andbranch fix. 
+I am in directory git101 andbranch fix.
+Another change but I am still in the directory of git 101 and branch name fix 
