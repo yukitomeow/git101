@@ -13,4 +13,6 @@ Modification 2
 I am in directory git101 andbranch fix.
 Another change but I am still in the directory of git 101 and branch name fix
 
-Hello, I am on the directory of git102 and new branch fix. 
+Hello, I am on the directory of git102 and new branch fix.
+
+This is the second modification on git102 directory and a branch fix. 
