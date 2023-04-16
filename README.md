@@ -11,4 +11,6 @@ Modification 2
 *some chnage*
 **Another Change**
 I am in directory git101 andbranch fix.
-Another change but I am still in the directory of git 101 and branch name fix 
+Another change but I am still in the directory of git 101 and branch name fix
+
+Hello, I am on the directory of git102 and new branch fix. 
