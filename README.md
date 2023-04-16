@@ -7,3 +7,5 @@ Modification 1
 Modification 2
 
 **strong**
+*italic*
+
